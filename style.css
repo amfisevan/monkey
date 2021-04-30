@@ -31,6 +31,6 @@ a {
   color: white;
 }
 
-.game {
-  justify-content: center;
+div {
+  margin-left: 440px;
 }
