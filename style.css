@@ -12,6 +12,7 @@ body {
 .totheworld {
   text-align: center;
   font-size: 30px;
+  color: white;
   display: block;
 }
 
@@ -24,7 +25,8 @@ h1 {
   text-align: center;
 }
 
-.button {
+a {
   text-algn: center;
   font-size: 35px;
+  color: white;
 }
