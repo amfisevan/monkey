@@ -30,3 +30,7 @@ a {
   font-size: 35px;
   color: white;
 }
+
+.game {
+  justify-content: center;
+}
